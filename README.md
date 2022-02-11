@@ -4,15 +4,6 @@
 
 Enthusiastic Mechatronics Engineering undergraduate student interested in working on multidisciplinary areas. Cognizant of technologies of different streams. Passionate about implementing and launching new projects.
 
-# GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotaadarsh&langs_count=8)](https://github.com/dotaadarsh/github-readme-stats)
-
-
-<a href="https://github.com/dotaadarsh">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=dotaadarsh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Aadarsh's GitHub Stats" />
-</a>
-
 # Socials
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/dotaadarsh)
