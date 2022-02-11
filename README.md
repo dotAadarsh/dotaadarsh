@@ -1,4 +1,4 @@
-[![Aadarsh's GitHub Banner](https://github.com/dotaadarsh/dotaadarsh/blob/main/assets/GITHUB%20BANNER.jpg)]
+![Aadarsh's GitHub Banner](https://github.com/dotaadarsh/dotaadarsh/blob/main/assets/GITHUB%20BANNER.jpg)
 
 # About Me
 
