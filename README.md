@@ -4,6 +4,10 @@
 
 Enthusiastic Mechatronics Engineering undergraduate student interested in working on multidisciplinary areas. Cognizant of technologies of different streams. Passionate about implementing and launching new projects.
 
+# Github Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dotaadarsh&show_icons=true&theme=dark)
+
 # Socials
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/dotaadarsh)
