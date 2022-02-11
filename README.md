@@ -1,6 +1,8 @@
 [![Aadarsh's GitHub Banner](https://github.com/dotaadarsh/dotaadarsh/blob/main/assets/GITHUB%20BANNER.jpg)](https://www.linkedin.com/in/aadarsh-k/)
 
 #About Me
+
+
 Enthusiastic Mechatronics Engineering undergraduate student interested in working on multidisciplinary areas. Cognizant of technologies of different streams. Passionate about implementing and launching new projects.
 
 <a href="https://github.com/braydoncoyer">
