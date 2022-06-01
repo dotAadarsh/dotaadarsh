@@ -4,7 +4,7 @@
 
 Enthusiastic Mechatronics Engineering undergraduate student interested in working on multidisciplinary areas. Cognizant of technologies of different streams. Passionate about implementing and launching new projects.
 
-[![Aadarsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dotaadarsh&theme=xcode)]([https://github.com/ashutosh00710/github-readme-activity-graph](https://github.com/dotaadarsh/dotaadarsh/blob/main/README.md)
+[![Aadarsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dotaadarsh&theme=xcode)]
 
 # Github Stats
 
