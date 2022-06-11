@@ -10,6 +10,8 @@ Enthusiastic Mechatronics Engineering undergraduate student interested in workin
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dotaadarsh&show_icons=true&theme=dark)
 
+<a href="https://app.daily.dev/dotaadarsh"><img src="https://api.daily.dev/devcards/c4c24e45c7b14c62939c3181ea232e74.png?r=0e8" width="400" alt="Aadarsh Kannan's Dev Card"/></a>
+
 # Socials
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/dotaadarsh)
@@ -19,4 +21,3 @@ Enthusiastic Mechatronics Engineering undergraduate student interested in workin
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/Jj8xeWpnEe)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/madmax_ak)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/w4vmhygkyyzefhe1u3bpqrlo6)
-
