@@ -8,7 +8,7 @@ Enthusiastic Mechatronics Engineering undergraduate student interested in workin
 
 # Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dotaadarsh&show_icons=true&theme=dark)
+![Aadarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dotaadarsh&show_icons=true&theme=dark)
 
 <a href="https://app.daily.dev/dotaadarsh"><img src="https://api.daily.dev/devcards/c4c24e45c7b14c62939c3181ea232e74.png?r=0e8" width="400" alt="Aadarsh Kannan's Dev Card"/></a>
 
