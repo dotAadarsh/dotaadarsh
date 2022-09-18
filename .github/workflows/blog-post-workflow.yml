@@ -14,4 +14,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://feedly.com/i/discover/sources/search/feed/https%3A%2F%2Ftypefully.com%2Fdotaadarsh%2Frss.xml"
+          feed_list: "https://typefully.com/dotaadarsh/rss.xml"
