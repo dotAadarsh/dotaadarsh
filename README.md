@@ -13,6 +13,11 @@ Enthusiastic Mechatronics Engineering undergraduate student interested in workin
 
 ### Threads
 <!-- BLOG-POST-LIST:START -->
+- [Java Programming - A thread on its characteristics](https://typefully.com/dotaadarsh/5EUFbUq)
+- [PyScript - A mini intro thread](https://typefully.com/dotaadarsh/0El2zjz)
+- [A thread on OpenAI created by OpenAI](https://typefully.com/dotaadarsh/OIlFkx1)
+- [JSON](https://typefully.com/dotaadarsh/GKNWo2y)
+- [What is Streamlit?](https://typefully.com/dotaadarsh/t7uYSd8)
 <!-- BLOG-POST-LIST:END -->
 
 ### Blogs
