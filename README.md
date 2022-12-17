@@ -1,9 +1,4 @@
-
-### Hi there 👋
-
-### About Me
-
-Enthusiastic Mechatronics Engineering undergraduate student interested in working on multidisciplinary areas. Cognizant of technologies of different streams.
+Hello! My name is Aadarsh Kannan and I am a pop music enthusiast, cyberpunk fan, mechatronics engineer, and explorer with a curious nature and a passion for new technologies.
 
 > [Portfolio](https://aadarsh-blog.vercel.app/)
 
