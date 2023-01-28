@@ -2,4 +2,7 @@ Hello! My name is Aadarsh Kannan and I am a pop music enthusiast, cyberpunk fan,
 
 > [Blog](https://aadarsh-blog.vercel.app/)
 
-I'm still figuring it out what to put here but anyway you can connect with me on [twitter](https://twitter.com/DotAadarsh). I am kinda active right now!
+> [Hashnode](https://aadarshkannan.hashnode.dev/)
+
+
+[![An image of @dotaadarsh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dotaadarsh)](https://holopin.io/@dotaadarsh)
