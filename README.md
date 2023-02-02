@@ -1,8 +1,5 @@
 Hello! My name is Aadarsh Kannan and I am a pop music enthusiast, cyberpunk fan, mechatronics engineer, and explorer with a curious nature and a passion for new technologies.
 
-> [Blog](https://aadarsh-blog.vercel.app/)
-
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dotaadarsh&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
