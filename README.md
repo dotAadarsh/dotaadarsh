@@ -1,15 +1,12 @@
-Hello! My name is Aadarsh Kannan and I am a pop music enthusiast, cyberpunk fan, mechatronics engineer, and explorer with a curious nature and a passion for new technologies.
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dotAadarsh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=dotAadarsh&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dotAadarsh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dotaadarsh&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
- 
- ### Threads
-<!-- BLOG-POST-LIST:START -->
-- [Manage required  Python packages with requirements.txt](https://typefully.com/dotaadarsh/shXP1Xn)
-- [Java Programming - A thread on its characteristics](https://typefully.com/dotaadarsh/5EUFbUq)
-- [PyScript - A mini intro thread](https://typefully.com/dotaadarsh/0El2zjz)
-- [A thread on OpenAI created by OpenAI](https://typefully.com/dotaadarsh/OIlFkx1)
-- [JSON](https://typefully.com/dotaadarsh/GKNWo2y)
-<!-- BLOG-POST-LIST:END -->
+## 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white) ![Blogger](https://img.shields.io/badge/Blogger-FF5722.svg?style=for-the-badge&logo=Blogger&logoColor=white)
+
+
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=dotaadarsh)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
