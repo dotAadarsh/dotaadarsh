@@ -10,11 +10,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ML, MongoDB, Search Engine...](https://todayinx.hashnode.dev/ml-mongodb-search-engine)
 - [Microsoft, Robots, UX...](https://todayinx.hashnode.dev/microsoft-robots-ux)
 - [ChatGPT, Security, Opensource...](https://todayinx.hashnode.dev/chatgpt-security-opensource)
 - [Flowstate, Mojo, Prompting...](https://todayinx.hashnode.dev/flowstate-mojo-prompting)
 - [Today in X](https://todayinx.hashnode.dev/about)
-- [Find the Perfect Design and Illustration for Your Next Project](https://aadarshkannan.hashnode.dev/find-the-perfect-design-and-illustration-for-your-next-project)
 <!-- BLOG-POST-LIST:END -->
 
 
