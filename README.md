@@ -10,11 +10,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dev Podcasts to listen to...](https://todayinx.hashnode.dev/dev-podcasts-to-listen-to)
 - [Blockchain, AWSome Day, AI...](https://todayinx.hashnode.dev/blockchain-awsome-day-ai)
 - [ML, MongoDB, Search Engine...](https://todayinx.hashnode.dev/ml-mongodb-search-engine)
 - [Microsoft, Robots, UX...](https://todayinx.hashnode.dev/microsoft-robots-ux)
 - [ChatGPT, Security, Opensource...](https://todayinx.hashnode.dev/chatgpt-security-opensource)
-- [Flowstate, Mojo, Prompting...](https://todayinx.hashnode.dev/flowstate-mojo-prompting)
 <!-- BLOG-POST-LIST:END -->
 
 
