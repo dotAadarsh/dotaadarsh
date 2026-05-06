@@ -1,24 +1,11 @@
 # Hey, I'm Aadarsh
 
-I enjoy building projects around:
-- AI & Automation
-- Cybersecurity
-- Performance Marketing & PPC
-- Prompt Engineering
-- Voice AI & RAG Systems
-- Experimental Web Tools
+I build things at the intersection of AI, cybersecurity, and automation.
 
-Currently:
-- Building AI-powered projects & hackathon prototypes
-- Exploring cybersecurity, LLMs, and developer tooling
-- Participating in global hackathons and challenges
-- Trying to turn random ideas into real products
+Most of my time goes into:
+- experimenting with AI systems
+- building side projects
+- participating in hackathons
+- turning ideas into products
 
-
-## Tech Stack
-
-```txt
-Python • JavaScript • React • Node.js
-OpenAI • Postman • AssemblyAI • Git • Linux
-Google Ads • Microsoft Ads • SEO • Analytics
-```
+Currently learning, building, and shipping on the internet.
