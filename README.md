@@ -27,11 +27,7 @@ Currently:
 
 ## Tech Stack
 
-```txt
-Python • JavaScript • TypeScript • React • Node.js
+Python • JavaScript • React • Node.js
 OpenAI • Postman • AssemblyAI • Git • Linux
-Google Ads • Meta Ads • SEO • Analytics
-```
+Google Ads • Microsoft Ads • SEO • Analytics
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
