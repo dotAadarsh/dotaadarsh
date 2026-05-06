@@ -1,0 +1,18 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull in Hashnode posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://aadarshkannan.hashnode.dev/rss.xml"
